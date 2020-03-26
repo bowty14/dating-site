@@ -1,7 +1,12 @@
 h1, h3 {
-  font-family: 'Yellowtail'
+  font-family: 'Yellowtail';
+  color: white;
 }
 
 body {
   font-family: 'Source Sans Pro';
+  background: linear-gradient(hotpink, white)
+}
+.fb{
+  font-family: cursive;
 }
