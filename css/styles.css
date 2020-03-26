@@ -1,12 +1,14 @@
+body {
+  font-family: 'Source Sans Pro';
+  background: linear-gradient(hotpink, white);
+}
 h1, h3 {
   font-family: 'Yellowtail';
   color: white;
 }
-
-body {
-  font-family: 'Source Sans Pro';
-  background: linear-gradient(hotpink, white)
+#male, #female {
+  display: none;
 }
-.fb{
+.fb {
   font-family: cursive;
 }
